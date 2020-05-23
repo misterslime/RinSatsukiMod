@@ -12,6 +12,6 @@ It currently adds:
 
 ###### Changelog
 ```
-v1.0.0.1: Changed the description a bit
+v1.0.0.1: Changed the mod's description a bit
 v1.0: Initial Release
 ```

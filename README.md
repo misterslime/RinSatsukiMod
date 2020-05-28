@@ -6,6 +6,6 @@ Rin Satsuki is a mod that adds (surprise!) Rin Satsuki to Terraria!
 It currently adds: 
  - 1 town NPC
  - 1 vanity set
- - 2 buffs
- - 1 potion
+ - 3 buffs
+ - 2 (placeable!) potions
  - 1 power-up
